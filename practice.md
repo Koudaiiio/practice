@@ -6,3 +6,4 @@
 
 # change1
 666
+# local input
